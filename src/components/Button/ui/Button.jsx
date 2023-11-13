@@ -6,7 +6,7 @@ const CustomButton = (props) => {
     return (
         <Button
             type="primary"
-            onClick={fn()}
+            onClick={fn}
         >
             {text}
         </Button>
