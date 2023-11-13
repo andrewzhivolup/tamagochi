@@ -1,5 +1,4 @@
-class Beast {
-
+export class Beast {
     constructor() {
         this._alive = true;
         this._hunger = 100;
@@ -28,7 +27,3 @@ class Beast {
     }
 
 }
-
-// Использование:
-const beast = new Beast();
-
