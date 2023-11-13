@@ -1,0 +1,11 @@
+.mainContainer {
+  height: 500px;
+  width: 500px;
+  border: 1px  var(--base-color) solid;
+}
+.base {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+}
